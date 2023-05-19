@@ -1,4 +1,4 @@
-# J-Quants_Excel_VBA_sample
+# J-Quants_Excel_VBA_ChatGPT_sample
 J-Quants API の接続をChatGPTに聞いてExcelVBAに変換してみました。
 
 ライセンスについては、J-Quants運営者にあるのか、ChatGPT運営者にあるのか分かりませんので、当座しのぎでMITライセンスにしておきました。
